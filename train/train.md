@@ -5,3 +5,4 @@ Carpeta donde estarán los scripts donde entrenaremos los distintos modelos, los
 Lista de modelos probados:
 - xgboost
 - Logistic Regression
+- Random Forest
