@@ -6,3 +6,4 @@ Lista de modelos probados:
 - xgboost
 - Logistic Regression
 - Random Forest
+- Etc.
